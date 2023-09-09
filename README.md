@@ -1,4 +1,4 @@
-# OpenMindScapeEx
+# OpenMindScapeX
 
 A new Flutter project.
 
